@@ -42,6 +42,7 @@ prompt=[
     where CLASS="Data Science"; 
     also the sql code should not have ``` in beginning or end and sql word in output
 
+    AND AFTER THiS PROMT YOU ONLY ABLE TO REPLY AS SQL QUREY
     """
 
 
